@@ -17,9 +17,9 @@ body, html {
     padding: 8px;
     border: 1px solid #ccc;
     border-radius: 5px;
-    margin-right: 8px;
+    margin-right: 4px;
     margin-left: 2px;
-    width: 70%;
+    width: 50%;
 }
 
 .send-button {
